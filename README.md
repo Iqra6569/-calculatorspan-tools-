@@ -1,5 +1,4 @@
-# -calcula# CalculatorSpan — Free Online Calculator Hub
-
+# CalculatorSpan — Free Online Calculator Hub
 **[Visit CalculatorSpan](https://calculatorspan.com)** — No sign-up. No ads. Works on any device.
 
 CalculatorSpan is a free collection of 100+ online calculators built 
